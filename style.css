@@ -205,6 +205,9 @@
       .main__text--third{
         display: block;
       }
+      .main__text{
+        font-size: 2em;
+      }
       .main__slide-menu {
         display: flex;
         overflow-x: visible;

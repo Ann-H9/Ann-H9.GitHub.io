@@ -164,12 +164,13 @@
           margin-top: 0;
           
       }
-  
+      .main__text {
+        font-size: 1.5em;
+      }
       .main__text--first,
       .main__text--second {
         display: block;
         margin-left: 40px; 
-        font-size: 1.2em;
       } 
       .main__text--third{
         display: none;
